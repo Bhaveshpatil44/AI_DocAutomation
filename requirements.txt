@@ -1,0 +1,12 @@
+streamlit
+python-docx
+PyPDF2
+pandas
+pdfkit
+openpyxl
+langchain
+google-generativeai
+langchain-google-genai
+python-dotenv
+pydantic
+requests
