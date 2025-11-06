@@ -1,9 +1,9 @@
-#  MedDocChain – ISO 13485 Documentation Generator
+#  MedDocChain â€“ ISO 13485 Documentation Generator
 
-An AI-powered Streamlit app to **auto-generate ISO 13485–compliant documentation** like **SRS**, **URS**, and **Test Cases** from Excel or PDF inputs. Designed for medical device/software compliance workflows.
+An AI-powered Streamlit app to **auto-generate ISO 13485â€“compliant documentation** like **SRS**, **URS**, and **Test Cases** from Excel or PDF inputs. Designed for medical device/software compliance workflows.
 
 Built using:  
-`Python`  · `Streamlit`  · `LangChain`  · `Cohere/Ollama`  · `DocxTemplate`
+`Python`  Â· `Streamlit`  Â· `LangChain`  Â· `Cohere/Ollama`  Â· `DocxTemplate` `Docker`
 
 ---
 
