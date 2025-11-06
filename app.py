@@ -5,7 +5,7 @@ import pandas as pd
 import requests
 import json
 
-#  STEP 1: CONFIGURATION 
+#  STEP 1: CONFIGURATION INITIAL STAGES
 #  Encoded API Key with .env
 from dotenv import load_dotenv
 import os
